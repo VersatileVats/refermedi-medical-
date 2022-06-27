@@ -107,3 +107,6 @@ Apart from all the mentioned functionalities which I have discussed, I have anot
 3️⃣ Updating the profile section and much more.
 
 I genuinely insist that you watch the JS-voice assistant video also because I have almost minimized the main video by 90% and this feature is making our project very much unique and awesome. So, do have a look at that video also. 
+
+Video link: https://youtu.be/PcbPVl8CVCg
+Live website Link: https://wheels4water.me/hackfest
